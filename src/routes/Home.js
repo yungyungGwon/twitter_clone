@@ -2,7 +2,7 @@ import React, {useEffect, useState} from "react";
 import {v4 as uuidv4 } from "uuid";
 import {dbService, storageServiece} from "fbase"
 import {addDoc, collection, query, onSnapshot, } from "firebase/firestore";
-import {ref, uploadString, getDownloadURL} from "firebase/storage";
+import {ref, uploadString, getDownloadURL, connectStorageEmulator} from "firebase/storage";
 import Nweet from "components/Nweet";
 
 const Home = ({userObj}) => {
