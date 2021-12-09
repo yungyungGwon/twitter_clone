@@ -18,6 +18,8 @@ function App() {
               displayName: user.displayName,
             }),
         });
+      } else {
+        setUserObj(null);
       }
       setInit(true);
     });
