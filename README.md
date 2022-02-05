@@ -12,14 +12,14 @@ Javascript, CSS3, React, Firebase
 
 * Main page
 
-로그인 전
+###### 로그인 전
 <br>
 <img src="./public/nwitter_img_1.png" width="100%" height="60%"></img>
 
-로그인 후
+###### 로그인 후
 <br>
 <img src="./public/nwitter_img_2.png" width="100%" height="60%"></img>
 
-글 작성 
+###### 글 작성 
 <br>
 <img src="./public/nwitter_img_3.png" width="100%" height="60%"></img>
